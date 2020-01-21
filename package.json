@@ -3,8 +3,8 @@
   "publisher": "dvlpr",
   "icon": "images/icon.jpg",
   "displayName": "dvlpr-theme",
-  "description": "A dark theme with vibrant colors made for long hours of devlopment and made by @dvlp.r",
-  "version": "0.0.3",
+  "description": "A dark theme with vibrant colors made for long hours of devlopment and made by @the_dvlpr",
+  "version": "0.0.4",
   "engines": {
     "vscode": "^1.37.0"
   },

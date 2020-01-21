@@ -1,0 +1,54 @@
+{
+  "workbench.colorTheme": "DVLPR",
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#0c0c0c",
+    "editor.background": "#000000",
+    "editorGroupHeader.tabsBackground": "#0c0c0c",
+    "tab.inactiveBackground": "#000000",
+    "tab.activeBackground": "#111111",
+    "sideBar.background": "#050505",
+    "sideBarSectionHeader.background": "#111111",
+    "list.hoverBackground": "#22283b",
+    "terminal.foreground": "#c8c8c8",
+    "panelTitle.activeBorder": "#00fffb",
+    "statusBar.background": "#111111",
+    "statusBar.noFolderBackground": "#111111",
+    "statusBar.debuggingBackground": "#111111"
+  },
+  "editor.tokenColorCustomizations": {
+    "functions": "#ff0bff",
+    "keywords": "#ff0d86",
+    "strings": "#00f693",
+    "numbers": "#faef00",
+    "types": "#00fffb"
+  },
+  "editor.fontSize": 16,
+  "editor.formatOnSave": true,
+  "editor.minimap.enabled": false,
+  "editor.tabSize": 2,
+  "editor.wordWrap": "on",
+  "emmet.includeLanguages": {
+    "erb": "html",
+    "yml": "yml"
+  },
+  "explorer.confirmDelete": false,
+  "explorer.confirmDragAndDrop": false,
+  "files.associations": {
+    "*.erb": "erb",
+    "*.rb": "ruby"
+  },
+  "html.format.contentUnformatted": "pre,code,textarea,style",
+  "terminal.integrated.fontSize": 16,
+  "terminal.integrated.rendererType": "dom",
+  "window.zoomLevel": 1,
+  "workbench.editor.enablePreview": false,
+  "workbench.sideBar.location": "left",
+  "workbench.startupEditor": "newUntitledFile",
+  "workbench.statusBar.visible": true,
+  "ruby.linter.run": "onType",
+  "ruby.format": "standard",
+  "workbench.editor.enablePreviewFromQuickOpen": false,
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  }
+}
