@@ -2,9 +2,9 @@
   "name": "dvlpr-theme",
   "publisher": "dvlpr",
   "icon": "images/icon.jpg",
-  "displayName": "dvlpr-theme",
-  "description": "A dark theme with vibrant colors made for long hours of devlopment and made by @the_dvlpr",
-  "version": "0.0.4",
+  "displayName": "DVLPR Theme",
+  "description": "A dark theme with vibrant, contrasting colors made for long hours of devlopment - created by Seph Cordovano",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.37.0"
   },
@@ -22,6 +22,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/dv1pr/vscode-dvlpr-theme"
+    "url": "https://github.com/the-dvlpr/vscode-dvlpr-theme"
   }
 }

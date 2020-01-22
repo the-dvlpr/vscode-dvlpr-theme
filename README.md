@@ -1,6 +1,6 @@
 # DVLPR Theme
 
-Dark theme with very vibrant colors created by [DVLPR](https://instagram.com/the_dvlpr)
+Dark theme with very vibrant colors created by [@the_dvlpr](https://instagram.com/the_dvlpr)
 
 Check out [DVLPR Apparel](https://dev-apparel.com) to contribute
 
