@@ -16,7 +16,7 @@
       {
         "label": "DVLPR",
         "uiTheme": "vs-dark",
-        "path": "./themes/DVLPR-color-theme.json"
+        "path": "./themes/dvlpr-color-theme.json"
       }
     ]
   },
